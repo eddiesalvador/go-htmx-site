@@ -1,3 +1,4 @@
 site17
-./temp
-./tmp
+temp/
+tmp/
+
